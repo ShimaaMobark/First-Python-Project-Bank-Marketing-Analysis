@@ -1,6 +1,8 @@
 # First-Python-Project-Bank-Marketing-Analysis
-Predicting Term Deposit Subscriptions
-Project Overview
+
+##### Predicting Term Deposit Subscriptions
+********
+**Project Overview:**
 This project aims to develop a machine learning model to predict whether a client will subscribe to a term deposit based on various client and campaign attributes. Using a publicly available dataset from a bank marketing campaign, we explore, preprocess, and analyze the data, followed by model training and optimization.
 
 **Table of Contents**
@@ -11,7 +13,7 @@ This project aims to develop a machine learning model to predict whether a clien
 - Model Training
 - Model Optimization
 - Results
-- Conclusion
+
 ****************
 **Business problem**
 - The dataset contains information on a marketing campaign, including client details and previous campaign outcomes. The target variable is whether the client subscribed to a term deposit (y).
